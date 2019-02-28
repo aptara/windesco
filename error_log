@@ -1,0 +1,148 @@
+[12-Mar-2018 02:03:51 UTC] PHP Warning:  require(/home/windesco/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:03:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/windesco/public_html/wp-blog-header.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:03:54 UTC] PHP Warning:  require(/home/windesco/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:03:54 UTC] PHP Fatal error:  require(): Failed opening required '/home/windesco/public_html/wp-blog-header.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:03:55 UTC] PHP Warning:  require(/home/windesco/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:03:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/windesco/public_html/wp-blog-header.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:03:55 UTC] PHP Warning:  require(/home/windesco/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:03:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/windesco/public_html/wp-blog-header.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:03:56 UTC] PHP Warning:  require(/home/windesco/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:03:56 UTC] PHP Fatal error:  require(): Failed opening required '/home/windesco/public_html/wp-blog-header.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:03:56 UTC] PHP Warning:  require(/home/windesco/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:03:56 UTC] PHP Fatal error:  require(): Failed opening required '/home/windesco/public_html/wp-blog-header.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/windesco/public_html/index.php on line 17
+[12-Mar-2018 02:05:21 UTC] PHP Warning:  require_once(/home/windesco/public_html/wp-load.php): failed to open stream: No such file or directory in /home/windesco/public_html/wp-blog-header.php on line 13
+[12-Mar-2018 02:05:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/windesco/public_html/wp-load.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/windesco/public_html/wp-blog-header.php on line 13
+[12-Mar-2018 02:05:24 UTC] PHP Warning:  require_once(/home/windesco/public_html/wp-load.php): failed to open stream: No such file or directory in /home/windesco/public_html/wp-blog-header.php on line 13
+[12-Mar-2018 02:05:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/windesco/public_html/wp-load.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/windesco/public_html/wp-blog-header.php on line 13
+[12-Mar-2018 02:36:48 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:36:50 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:36:51 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:36:51 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:36:51 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:44:36 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:45:18 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:45:20 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:47:48 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:47:52 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:50:32 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:51:46 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:51:58 UTC] PHP Fatal error:  Call to undefined function et_core_setup() in /home/windesco/public_html/wp-content/themes/Divi/functions.php on line 21
+[12-Mar-2018 02:52:25 UTC] PHP Fatal error:  Call to undefined function et_pb_is_pagebuilder_used() in /home/windesco/public_html/wp-content/themes/Divi/page.php on line 5
+[22-Apr-2018 09:35:42 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/windesco/public_html/wp-includes/class-wp-query.php on line 736
+[23-Apr-2018 01:07:06 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/windesco/public_html/wp-includes/class-wp-query.php on line 736
+[23-Jul-2018 06:43:09 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 06:45:36 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 06:46:29 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 06:52:15 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 07:10:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 1
+[23-Jul-2018 07:10:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 1
+[23-Jul-2018 07:10:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 1
+[23-Jul-2018 07:11:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 1
+[23-Jul-2018 07:12:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 1
+[23-Jul-2018 07:23:34 UTC] PHP Parse error:  syntax error, unexpected 'login' (T_STRING), expecting ']' in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 39
+[23-Jul-2018 07:23:39 UTC] PHP Parse error:  syntax error, unexpected 'login' (T_STRING), expecting ']' in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 39
+[23-Jul-2018 07:23:39 UTC] PHP Parse error:  syntax error, unexpected 'login' (T_STRING), expecting ']' in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 39
+[23-Jul-2018 07:24:14 UTC] PHP Parse error:  syntax error, unexpected 'login' (T_STRING), expecting ']' in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 39
+[23-Jul-2018 07:26:01 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 07:27:07 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 07:28:59 UTC] PHP Parse error:  syntax error, unexpected 'QUERY_STRING' (T_STRING) in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 38
+[23-Jul-2018 07:29:40 UTC] PHP Parse error:  syntax error, unexpected 'QUERY_STRING' (T_STRING) in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 38
+[23-Jul-2018 07:33:49 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 07:41:22 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 07:41:37 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 07:42:28 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 07:43:22 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 08:02:24 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 08:04:39 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 08:13:59 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 08:17:15 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 08:17:56 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 08:31:11 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:07:39 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:08:38 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:08:54 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:09:10 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:09:16 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:11:11 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:15:47 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:16:32 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:19:30 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:22:26 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:32:21 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:32:21 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:34:07 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:34:47 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:37:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 37
+[23-Jul-2018 09:37:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 37
+[23-Jul-2018 09:39:14 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:39:36 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:39:48 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:41:03 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:41:12 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:41:50 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 09:46:12 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:02:30 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:03:23 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:03:58 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:04:43 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:06:07 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:07:01 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:07:39 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:09:28 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:11:37 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:12:09 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:14:01 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:15:23 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:16:44 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:17:15 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:18:48 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:26:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 28
+[23-Jul-2018 10:26:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 28
+[23-Jul-2018 10:27:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 28
+[23-Jul-2018 10:28:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 28
+[23-Jul-2018 10:30:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/case-studies.php on line 28
+[23-Jul-2018 10:40:35 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 10:49:21 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:01:13 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/custompage.php on line 106
+[23-Jul-2018 11:01:17 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /var/www/html/etc/wordpress_11072018/wind/wp-content/themes/Divi/custompage.php on line 106
+[23-Jul-2018 11:03:36 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:04:06 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:04:18 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:07:27 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:09:43 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:10:23 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:11:11 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:11:18 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:11:35 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:19:14 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:19:26 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:20:30 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:20:54 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 11:25:20 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 12:40:01 UTC] PHP Parse error:  syntax error, unexpected '$args' (T_VARIABLE) in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/class-wp-members-forms.php on line 484
+[23-Jul-2018 12:40:05 UTC] PHP Parse error:  syntax error, unexpected '$args' (T_VARIABLE) in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/class-wp-members-forms.php on line 484
+[23-Jul-2018 12:44:31 UTC] PHP Fatal error:  Class 'WP_Members_Forms' not found in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/class-wp-members.php on line 234
+[23-Jul-2018 12:53:24 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 15:02:44 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 15:03:02 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 15:03:19 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 15:03:37 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 15:04:14 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 15:07:09 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 15:07:25 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 15:08:18 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[23-Jul-2018 15:08:39 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 07:47:51 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 07:50:06 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 07:50:08 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 07:50:22 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 07:50:44 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 07:51:14 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 07:57:00 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 10:06:34 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 10:06:54 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 13:39:56 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 13:40:09 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 14:25:25 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 14:31:51 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339
+[24-Jul-2018 16:34:15 UTC] PHP Warning:  sprintf(): Too few arguments in /var/www/html/etc/wordpress_11072018/wind/wp-content/plugins/wp-members/inc/dialogs.php on line 339

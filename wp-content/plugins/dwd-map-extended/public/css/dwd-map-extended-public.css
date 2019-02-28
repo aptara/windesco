@@ -1,0 +1,101 @@
+.et_pb_fullwidth_section .et_pb_map_container_extended {
+    margin: 0;
+}
+
+.et_pb_map_container_extended img {
+    max-width: inherit;
+}
+
+.et_pb_map_container_extended {
+    position: relative;
+}
+
+.et_pb_map_pin_extended,
+.et_pb_map_pin_extended_address {
+    visibility: hidden;
+    display: none
+}
+
+.dwd-map-container {
+    display: inline-block;
+    overflow: auto;
+}
+
+.dwd-map-label {
+    overflow: visible !important;
+}
+
+.dwd-map-label span {
+    margin-top: 4px;
+    margin-left: -50%;
+    padding: 5px 10px 5px 10px;
+    border-radius: 4px;
+    color: #fff;
+    text-align: center;
+    background-color: rgba(80, 80, 80, 0.9);
+    width: auto;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.dwd-map-show-pin-address .et_pb_map_pin_extended_address {
+    visibility: visible;
+    display: block;
+}
+
+.dwd-map-direction-dialog input {
+    width: 280px;
+}
+
+.dwd-map-direction-dialog {
+    user-select: none;
+    font-size: 11px;
+    font-family: Roboto, Arial, sans-serif;
+    font-weight: 300;
+    padding: 10px 15px;
+}
+
+.dwd-map-direction-top,
+.dwd-map-direction-bottom {
+    color: #2C2C2C;
+    background: #eee;
+}
+.et_pb_map_container_extended .et_pb_map_pin_extended_address {
+    background-color: #f4f4f4;
+    border-color: #d9d9d9;
+    border-width: 1px;
+    border-style: solid;
+    border-bottom: none;
+    padding: 12px 10px;
+}
+.et_pb_map_container_extended .et_pb_map_pin_extended_address:last-child {
+    border-color:#d9d9d9;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+.et_pb_map_pin_extended_address .dwd-map-marker-listing-icon {
+    vertical-align: middle;
+}
+.et_pb_map_pin_extended_address h3 {
+    padding-bottom: 0;
+}
+@media all and (max-width: 980px) {
+    .dwd-map-direction-inside {
+        color: #2C2C2C;
+        background: #eee;
+    }
+}
+
+@media all and (min-width: 981px) {
+    .dwd-map-direction-dialog.dwd-map-direction-inside {
+        position: absolute;
+        top: 10px;
+        left: 15%;
+        padding: 7px 10px;
+        background-color: rgb(255, 255, 255);
+        box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+        border-radius: 2px;
+        text-align: center;
+    }
+}
